@@ -13,3 +13,5 @@ It takes a string from the user -> computes a simple hash(while looping the sum 
 ./bin/encrypter mykey < src/asset/secret > src/asset/encryptedsecret
 
 ```
+
+Source: https://literateprograms.org/simple_xor_cipher__c_.html
